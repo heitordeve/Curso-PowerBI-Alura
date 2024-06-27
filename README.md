@@ -12,7 +12,9 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI:
 
 ### Dashboard - Conhecendo a Ferramenta
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://imgur.com/gallery/dashboard-conhecendo-ferramenta-ghjmjga)
+<p>
+    <img width="470" src="to_readme/conhecendo-a-ferrramenta.gif">
+</p>
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiYjc3N2YxMWItZGFiOS00Y2JiLWI2NjMtM2ZiZmM5OTQwOWU5IiwidCI6ImE5OWQ0NzdiLTg5OGQtNDEyYS1iZTQyLTJlMWFkN2ZiYmYyYyJ9)
 
@@ -23,7 +25,9 @@ Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoi
 - Arquivos no formato em Excel em uma pasta
 
 ### DER
-![DER](image.png)
+<p>
+    <img width="470" src="to_readme/DER-conhecendo-a-ferramenta.png">
+</p>
 
 #### Tipo de Análises Feitas
 
