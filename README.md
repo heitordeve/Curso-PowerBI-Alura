@@ -4,7 +4,7 @@ Domine uma das mais populares ferramentas de Business Intelligence do mercado e 
 Dashboards elaborados com foco em estudos na ferramenta Power BI:
 
 - [Conhecendo a Ferramenta](https://github.com/heitordeve/Curso-PowerBI-Alura/tree/main/1.Conhecendo%20a%20Ferramenta)
-- [Construindo Visualizações](Em Breve)
+- [Construindo Visualizações](https://github.com/heitordeve/Curso-PowerBI-Alura/tree/main/2.Construindo%20Visualiza%C3%A7%C3%B5es)
 - [Tratando Dados](Em Breve)
 - [Criando Medidas](Em Breve)
 - [Elaborando DashBoards e Relatórios](Em Breve)
