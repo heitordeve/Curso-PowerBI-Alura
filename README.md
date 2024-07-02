@@ -50,4 +50,50 @@ Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoi
 - Text Filter
 - Image Grid
 
+### Dashboard - Construindo Visualizações
+
+<p>
+    <img width="470" src="to_readme/construindo-visualizacoes.gif">
+</p>
+
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMmExNjc5ZmItOGYyOC00ZWI0LTk4YWEtNWRhZDhkZTZiYTAzIiwidCI6ImE5OWQ0NzdiLTg5OGQtNDEyYS1iZTQyLTJlMWFkN2ZiYmYyYyJ9)
+
+#### Estrutura da base de dados
+
+- Arquivo no formato Excel
+
+### DER
+<p>
+    <img width="470" src="to_readme/DER-construindo-visualizacoes.png">
+</p>
+
+#### Tipo de Análises Feitas
+
+- E-Commerce
+
+    - Média de Inativos
+    - Média de Acessos
+    - Soma de valor por título
+
+- Vendas
+    - Progesso das vendas de acordo com a meta
+    - Meta de Vendas
+    - Vendas por semana
+
+- Clientes
+    - Média de idade
+    - Profissão mais frequente
+    - Forma de contato preferida de acordo com o público
+
+#### Tipos de Elementos gráficos e filtros
+
+- Gráfico Pizza
+- Gráfico de Linhas
+- Gráfico de Barras Horizontais
+- Cartões
+- Mapa
+
+### Visuais Obtidos
+- Table Heat
+
 
