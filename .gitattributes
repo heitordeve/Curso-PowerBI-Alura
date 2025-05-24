@@ -1,3 +1,12 @@
-*.pbix linguist-detectable=true
-*.xlsx linguist-detectable=true
-*.md linguist-documentation
+*.pbix linguist-language=PowerBI
+
+# Ignorar arquivos de dados e auxiliares
+*.csv linguist-generated
+*.xlsx linguist-generated
+*.xls linguist-generated
+*.png linguist-generated
+*.jpg linguist-generated
+*.jpeg linguist-generated
+
+# Ignorar notebooks ou outros arquivos auxiliares
+*.ipynb linguist-generated
